@@ -1,20 +1,31 @@
-# 👋 Hi, I'm Bikash Sasmal
+  <h1>Bikash Sasmal</h1>
 
-## 👀 About Me
-I am a passionate coder with a love for Python and Java. My interests extend to web development.
+  <h2>About Me</h2>
+  <p>I'm Bikash Sasmal, a passionate developer currently studying at the National Institution of Science and Technology. I bring a unique perspective and a strong foundation in HTML, CSS, JavaScript, Java, React, Redux toolkit and Bootstrap to every project I undertake.</p>
 
-## 🌱 Currently Learning
-I'm on a journey to master AI and ML while honing my skills in JavaScript. Always eager to learn and implement new technologies!
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Java</li>
+    <li>React</li>
+    <li>Bootstrap</li>
+  </ul>
 
-## 💞️ Open to Collaboration
-I'm open to collaborating on projects involving HTML, CSS, and Python. Whether it's web development or Python scripting, count me in! Let's build something amazing together.
+  <h2>Projects</h2>
+  <p>Here are some projects I've worked on:</p>
+  <ul>
+    <li><a href="https://github.com/Bikash-Sasmal/React-myntra-clone">React-myntra-clone - Dynamic and responsive Myntra clone crafted with React.js, offering seamless user experience and intuitive navigation.</li>
+    <li><a href="https://task-scheduler-react-version.vercel.app/">React-todo-App - Simple and efficient React todo app designed for seamless task management.</li>
+    <li><a href="https://github.com/Bikash-Sasmal/Desktop-Voice-Assistant">Desktop-voice-assistant - Developed a desktop voice assistant application designed to provide hands-free interaction and perform various tasks through voice commands.</li>
+    <li><a href="https://github.com/Bikash-Sasmal/Real-time-indoor-workout-analysis">Real-time-indoor-workout-analysis - This project leveraging ML and computer vision techniques for enhanced exercise form and posture evaluation.</li>
+  </ul>
 
-## 📫 How to Reach Me
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/bikash-sasmal-088a26278). Feel free to reach out for collaboration, discussions, or just to say hello!
+  <h2>Get in Touch</h2>
+  <ul>
+    <li>Portfolio: <a href="https://portfolio-website-mu-ruddy.vercel.app">Portfolio website</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/bikash-sasmal-088a26278">LinkedIn</a></li>
+    <li>Email: <a href="mailto:bikash.sasmal.mca.2022@nist.edu">Email</a></li>
+  </ul>
 
-<!-- Feel free to add any other relevant information or customize the sections based on your preferences. -->
-
-<!---
-Bikash-Sasmal/Bikash-Sasmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
