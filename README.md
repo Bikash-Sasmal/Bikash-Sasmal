@@ -18,10 +18,10 @@
   <h2>Projects</h2>
   <p>Here are some projects I've worked on:</p>
   <ul>
-    <li><a href="https://github.com/Bikash-Sasmal/React-myntra-clone">React-myntra-clone - <br><p>Dynamic and responsive Myntra clone crafted with React.js, offering seamless user experience and intuitive navigation.</p></li>
-    <li><a href="https://task-scheduler-react-version.vercel.app/">React-todo-App - <br><p>Simple and efficient React todo app designed for seamless task management.</p></li>
-    <li><a href="https://github.com/Bikash-Sasmal/Desktop-Voice-Assistant">Desktop-voice-assistant - <br><p>Developed a desktop voice assistant application designed to provide hands-free interaction and perform various tasks through voice commands.</p></li>
-    <li><a href="https://github.com/Bikash-Sasmal/Real-time-indoor-workout-analysis">Real-time-indoor-workout-analysis - <br><p>This project leveraging ML and computer vision techniques for enhanced exercise form and posture evaluation.</p></li>
+    <li><a href="https://github.com/Bikash-Sasmal/React-myntra-clone">React-myntra-clone -</a> <br><p>Dynamic and responsive Myntra clone crafted with React.js, offering seamless user experience and intuitive navigation.</p></li>
+    <li><a href="https://task-scheduler-react-version.vercel.app/">React-todo-App -</a> <br><p>Simple and efficient React todo app designed for seamless task management.</p></li>
+    <li><a href="https://github.com/Bikash-Sasmal/Desktop-Voice-Assistant">Desktop-voice-assistant -</a> <br><p>Developed a desktop voice assistant application designed to provide hands-free interaction and perform various tasks through voice commands.</p></li>
+    <li><a href="https://github.com/Bikash-Sasmal/Real-time-indoor-workout-analysis">Real-time-indoor-workout-analysis -</a> <br><p>This project leveraging ML and computer vision techniques for enhanced exercise form and posture evaluation.</p></li>
   </ul>
 
   <h2>Get in Touch</h2>
