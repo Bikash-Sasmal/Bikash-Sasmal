@@ -1,4 +1,4 @@
-  <h1>Bikash Sasmal</h1>
+  <h1>Hi there, I'm Bikash Sasmal! 👋</h1>
 
   <h2>About Me</h2>
   <p>I'm Bikash Sasmal, a passionate developer currently studying at the National Institution of Science and Technology. I bring a unique perspective and a strong foundation in HTML, CSS, JavaScript, Java, React, Redux toolkit and Bootstrap to every project I undertake.</p>
@@ -10,7 +10,9 @@
     <li>JavaScript</li>
     <li>Java</li>
     <li>React</li>
+    <li>Redux toolkit</li>
     <li>Bootstrap</li>
+    <li>sql</li>
   </ul>
 
   <h2>Projects</h2>
