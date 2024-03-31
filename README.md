@@ -1,18 +1,23 @@
   <h1>Hi there, I'm Bikash Sasmal! 👋</h1>
 
   <h2>About Me</h2>
-  <p>I'm Bikash Sasmal, a passionate developer currently studying at the National Institution of Science and Technology. I bring a unique perspective and a strong foundation in HTML, CSS, JavaScript, Java, React, Redux toolkit and Bootstrap to every project I undertake.</p>
+  <p>I'm Bikash Sasmal, a passionate developer currently studying at the National Institution of Science and Technology. I bring a unique perspective and a proficiency in MERN stack and  a strong foundation in HTML, CSS, JavaScript, Java, Redux toolkit, and Bootstrap to every project I undertake.</p>
 
   <h2>Skills</h2>
   <ul>
+    <li>React.js</li>
+    <li>MongoDB</li>
+    <li>Express.js</li>
+    <li>Node.js</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>Java</li>
-    <li>React</li>
+    <li>Python</li>
     <li>Redux toolkit</li>
     <li>Bootstrap</li>
     <li>sql</li>
+    <li>C</li>
   </ul>
 
   <h2>Projects</h2>
